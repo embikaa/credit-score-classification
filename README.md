@@ -27,7 +27,7 @@ Key features from the dataset include:
 Several data visualizations help us understand how different features influence the credit score:
 
 - 📊 **Credit Score Based on Occupation**  
-  `📊 [![Credit Score Based on Occupation](images/occupation.png)]`
+  [![Credit Score Based on Occupation](images/occupation.png)]
 
 - 📊 **Credit Score Based on Annual Income**  
   `📊 [![Credit Score Based on Annual Income](images/annual_income.png)]`
