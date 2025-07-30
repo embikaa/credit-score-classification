@@ -46,6 +46,9 @@ Several data visualizations help us understand how different features influence 
 
 -  **Credit Score Based on Number of Loans**  
   ![Credit Score Based on Number of Loans](images/num_loans.png)
+
+- **Credit Score Based on Credit History Age**
+  ![Credit Score Based on Number of Loans](images/history_age.png)
   
 The other graphics I used are not here because they do not affect the credit score, but if you want to see them, you can access them from the images folder.
 
@@ -61,7 +64,7 @@ The other graphics I used are not here because they do not affect the credit sco
 - Python
 - Pandas, NumPy
 - scikit-learn (RandomForestClassifier)
-- Plotly & Matplotlib
+- Plotly
 
 ---
 
@@ -86,7 +89,7 @@ The other graphics I used are not here because they do not affect the credit sco
 ##  How to Run This Project
 
 ```bash
-pip install pandas numpy scikit-learn matplotlib plotly
+pip install pandas numpy scikit-learn plotly
 python credit_score_classification.ipynb
 ```
 
