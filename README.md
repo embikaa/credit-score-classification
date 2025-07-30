@@ -45,7 +45,7 @@ Several data visualizations help us understand how different features influence 
    ![Credit Score Based on Interest Rate](images/interest_rate.png)]
 
 - 📊 **Credit Score Based on Number of Loans**  
-  ![Credit Score Based on Number of Loans](images/num_loans.png)]
+  ![Credit Score Based on Number of Loans](images/num_loans.png)
   
 The other graphics I used are not here because they do not affect the credit score, but if you want to see them, you can access them from the images folder.
 
