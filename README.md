@@ -27,25 +27,27 @@ Key features from the dataset include:
 Several data visualizations help us understand how different features influence the credit score:
 
 - 📊 **Credit Score Based on Occupation**  
-  `📊 [IMAGE: Credit Score Based on Occupation]`
+  `📊 [![Credit Score Based on Occupation](images/occupation.png)]`
 
 - 📊 **Credit Score Based on Annual Income**  
-  `📊 [IMAGE: Credit Score Based on Annual Income]`
+  `📊 [![Credit Score Based on Annual Income](images/annual_income.png)]`
 
 - 📊 **Credit Score Based on Monthly In-hand Salary**  
-  `📊 [IMAGE: Credit Score Based on Monthly In-hand Salary]`
+  `📊 [![Credit Score Based on Monthly In-hand Salary](images/monthly_inhand_salary.png)]`
 
 - 📊 **Credit Score Based on Number of Bank Accounts**  
-  `📊 [IMAGE: Credit Score Based on Number of Bank Accounts]`
+  `📊 [![Credit Score Based on Number of Bank Accounts](images/num_bank_acc.png)]`
 
 - 📊 **Credit Score Based on Number of Credit Cards**  
-  `📊 [IMAGE: Credit Score Based on Number of Credit Cards]`
+  `📊 [![Credit Score Based on Number of Credit Cards](images/num_credit_card.png)]`
 
 - 📊 **Credit Score Based on Interest Rate**  
-  `📊 [IMAGE: Credit Score Based on Interest Rate]`
+  `📊 [![Credit Score Based on Interest Rate](images/interest_rate.png)]`
 
 - 📊 **Credit Score Based on Number of Loans**  
-  `📊 [IMAGE: Credit Score Based on Number of Loans]`
+  `📊 [![Credit Score Based on Number of Loans](images/num_loans.png)]`
+  
+The other graphics I used are not here because they do not affect the credit score, but if you want to see them, you can access them from the images folder.
 
 > Classes are color-coded in all visuals:  
 > - **Poor** = 🔴  
