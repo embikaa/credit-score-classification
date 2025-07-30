@@ -19,6 +19,7 @@ Key features from the dataset include:
 - Number of Credit Cards
 - Interest Rate
 - Number of Loans
+- Credit History Age
 
 ---
 
